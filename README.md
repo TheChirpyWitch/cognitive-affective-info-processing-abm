@@ -7,7 +7,7 @@ An agent-based model (ABM) that simulates how people form and update beliefs whe
 ## Project Structure
 
 ```
-claude/
+git_code/
 ├── main.py                  # Entry point: runs the demo simulation
 └── hybrid_model/
     ├── __init__.py
